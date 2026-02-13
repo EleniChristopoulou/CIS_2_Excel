@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Now simple run the script in directory it is located.
 
 ```bash
-python noway.py
+python3 noway.py
 ```
 
 Then select your CIS pdf and give it <sup>*TIME* :))</sup> to do its thnig.
