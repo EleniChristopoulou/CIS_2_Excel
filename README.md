@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Now simple run the script in directory it is located.
+Now simply run the script in directory it is located.
 
 ```bash
 python3 noway.py
