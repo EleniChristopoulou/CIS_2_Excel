@@ -2,3 +2,6 @@
 Convert CIS benchmarks to Excel file.
 
 ## Installation
+
+```bash
+pip install -r requirements.txt
