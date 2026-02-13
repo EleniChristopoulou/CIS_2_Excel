@@ -1,1 +1,4 @@
-# CIS_2_Excel
+# CIS 2 Excel
+Convert CIS benchmarks to Excel file.
+
+## Installation
