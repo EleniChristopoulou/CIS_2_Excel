@@ -22,7 +22,7 @@ Now simple run the script in directory it is located.
 python noway.py
 ```
 
-Then select you pdf and give it <sup>*TIME* :))</sup> to do its thnig.
+Then select your CIS pdf and give it <sup>*TIME* :))</sup> to do its thnig.
 
 ## Thank you
 
